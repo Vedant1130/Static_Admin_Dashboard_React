@@ -22,12 +22,19 @@ This project is a responsive admin dashboard built with React, Vite, and Tailwin
     ```
 
 2. Install dependencies:
+   ```sh
    npm install
+    ```
 
 3. Start the development server:
+   ```sh
    npm run dev
-
-4. Open your browser and navigate to http://localhost:3000.
+   ```
+   
+4. Open your browser and navigate to
+   ```sh
+   http://localhost:3000.
+   ```
 
 ## Scripts
    npm run dev: Start the development server.
