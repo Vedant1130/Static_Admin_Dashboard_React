@@ -16,7 +16,7 @@ This project is a responsive admin dashboard built with React, Vite, and Tailwin
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/react-admin-dashboard.git
+    git clone https://github.com/Vedant1130/Static_Admin_Dashboard_React.git
     cd react-admin-dashboard
 
     ```
