@@ -35,13 +35,7 @@ This project is a responsive admin dashboard built with React, Vite, and Tailwin
    ```sh
    http://localhost:3000.
    ```
-
-## Scripts
-   - **npm run dev**: Start the development server.
-   - **npm run build**: Build the project for production.
-   - **npm run preview**: Preview the production build.
-   - **npm run lint**: Run ESLint to check for code quality.
-
+   
 ## Technologies Used
    - **React**: Frontend library for building user interfaces.
    - **Vite**: Fast build tool for modern web projects.
