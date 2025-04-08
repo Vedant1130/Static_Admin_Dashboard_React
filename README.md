@@ -37,23 +37,23 @@ This project is a responsive admin dashboard built with React, Vite, and Tailwin
    ```
 
 ## Scripts
-   npm run dev: Start the development server.
-   npm run build: Build the project for production.
-   npm run preview: Preview the production build.
-   npm run lint: Run ESLint to check for code quality.
+   - **npm run dev**: Start the development server.
+   - **npm run build**: Build the project for production.
+   - **npm run preview**: Preview the production build.
+   - **npm run lint**: Run ESLint to check for code quality.
 
 ## Technologies Used
-   React: Frontend library for building user interfaces.
-   Vite: Fast build tool for modern web projects.
-   TailwindCSS: Utility-first CSS framework for styling.
-   Recharts: Library for creating charts and data visualizations.
-   React Router: Library for routing and navigation.
-   ESLint: Linter for maintaining code quality.   
+   - **React**: Frontend library for building user interfaces.
+   - **Vite**: Fast build tool for modern web projects.
+   - **TailwindCSS**: Utility-first CSS framework for styling.
+   - **Recharts**: Library for creating charts and data visualizations.
+   - **React Router**: Library for routing and navigation.
+   - **ESLint**: Linter for maintaining code quality.   
 
 ## Customization
-   Theme: Modify the theme in src/context/theme-context.jsx.
-   Routes: Add or update routes in src/App.jsx.
-   Styles: Customize styles in src/index.css or tailwind.config.js.
+   - **Theme**: Modify the theme in src/context/theme-context.jsx.
+   - **Routes**: Add or update routes in src/App.jsx.
+   - **Styles**: Customize styles in src/index.css or tailwind.config.js.
 
 ## Acknowledgments
    Vite
