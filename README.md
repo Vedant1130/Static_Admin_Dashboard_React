@@ -1,12 +1,46 @@
-# React + Vite
+# React Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive admin dashboard built with React, Vite, and TailwindCSS. It includes features like dark mode, dynamic routing, and reusable components for a modern and efficient user interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Optimized for desktop and mobile devices.
+- **Dark Mode**: Supports light and dark themes with system preference detection.
+- **Dynamic Routing**: Powered by `react-router-dom` for seamless navigation.
+- **Reusable Components**: Modular and reusable components for scalability.
+- **Data Visualization**: Integrated with `recharts` for interactive charts.
+- **Custom Hooks**: Includes hooks like `useTheme` and `useClickOutside` for enhanced functionality.
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   git clone https://github.com/your-username/react-admin-dashboard.git
+   cd react-admin-dashboard
+
+2.Install dependencies:
+   npm install
+
+3.Start the development server:
+  npm run dev
+
+Open your browser and navigate to http://localhost:3000.
+
+##Scripts
+  npm run dev: Start the development server.
+  npm run build: Build the project for production.
+  npm run preview: Preview the production build.
+  npm run lint: Run ESLint to check for code quality.
+  
+##Technologies Used
+  React: Frontend library for building user interfaces.
+  Vite: Fast build tool for modern web projects.
+  TailwindCSS: Utility-first CSS framework for styling.
+  Recharts: Library for creating charts and data visualizations.
+  React Router: Library for routing and navigation.
+  ESLint: Linter for maintaining code quality.
+  
+##Customization
+  Theme: Modify the theme in src/context/theme-context.jsx.
+  Routes: Add or update routes in src/App.jsx.
+  Styles: Customize styles in src/index.css or tailwind.config.js.
+  
