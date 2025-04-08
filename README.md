@@ -50,7 +50,7 @@ This project is a responsive admin dashboard built with React, Vite, and Tailwin
    - **Styles**: Customize styles in src/index.css or tailwind.config.js.
 
 ## Acknowledgments
-   Vite
-   React
-   TailwindCSS
-   Recharts    
+   - **Vite**
+   - **React**
+   - **TailwindCSS**
+   - **Recharts**    
