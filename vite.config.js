@@ -5,7 +5,7 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:'/Static_Admin_Dashboard_React',
+  base:'/Static_Admin_Dashboard_React/',
   server:{
     port:3000,
   },
